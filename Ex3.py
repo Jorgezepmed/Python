@@ -23,4 +23,7 @@ print "Is it greater?", 5 > -2
 print "Is it grater or equial?", 5 > -2
 print "Is it less or equal??", 5 < -2
 print "Prueba de guardar git Plus"
-print "prueba de GitHub"
+print "sprueba de GitHub"
+
+
+#Empezamos de nuevo con las pruebas de atom a GitHub 

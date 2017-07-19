@@ -14,3 +14,7 @@ print "He's got %s eyes and %s hair" % (my_eyes, my_haire)   #DEBE DE TENER LOS 
 
 
 print "If i add %d, %r, and %r I get %r." % (my_adge, my_height, my_weighy, my_adge + my_height + my_weighy)
+
+# %r SE USA PARA NUMEROS CON PUNTO DECIMAL
+# %d PARA NUMEROS ENTEROS
+# %s PARA PALABRAS/STRING

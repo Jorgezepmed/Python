@@ -1,7 +1,7 @@
 #Variables y Printing
 
 my_name = 'Jorge David Zepeda'   #CADA VEZ QUE SE USEA EL '' SE CREA UN STRING
-my_adge = 21
+my_adge = 21                    # UNA VARIABLE NO PUEDE EMPEZAR COMO NUMERO, TIENE QUE SER UN CARACTERN
 my_height = 1.78    #METROS
 my_weighy = 84      #KILOGRAM
 my_eyes = "Brown"
@@ -17,4 +17,4 @@ print "If i add %d, %r, and %r I get %r." % (my_adge, my_height, my_weighy, my_a
 
 # %r SE USA PARA NUMEROS CON PUNTO DECIMAL
 # %d PARA NUMEROS ENTEROS
-# %s PARA PALABRAS/STRING
+# %s PARA PALABRAS/STRIN

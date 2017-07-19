@@ -1,0 +1,16 @@
+#Variables y Printing
+
+my_name = 'Jorge David Zepeda'   #CADA VEZ QUE SE USEA EL '' SE CREA UN STRING
+my_adge = 21
+my_height = 1.78    #METROS
+my_weighy = 84      #KILOGRAM
+my_eyes = "Brown"
+my_haire = "Brown"
+
+print "Let's talk about %s." % my_name            #ES LO MISMO SI EL "%" ESTA PEGADO O NO A LA VARIABLE
+print "He is %d metros tall." %my_height
+print "He's %d kilogram heavy " % my_weighy
+print "He's got %s eyes and %s hair" % (my_eyes, my_haire)
+
+
+print "If i add %d, %d, and %d I get %d." % (my_adge, my_height, my_weighy, my_adge + my_height + my_weighy)

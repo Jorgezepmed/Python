@@ -2,11 +2,11 @@
 
 formatter = "%r %r %r %r"                   #DECLARAS EL FORMATO QUE TENDRAS DE NUEMOERS O PALABRAS, FOLTANTES AL PARECER
 
- print formatter % (1, 2, 3, 4)
- print formatter % ( "one", "two", "three", "four")
- print formatter % (True, False, False, True)
- print formatter % (formatter, formatter, formatter, formatter)
- print formatter % (
+print formatter % (1, 2, 3, 4)
+print formatter % ( "one", "two", "three", "four")
+print formatter % (True, False, False, True)
+print formatter % (formatter, formatter, formatter, formatter)
+print formatter % (
  " I had this thing.",
  "That you could type up right.",                       #COMO TIENE COMAS SE PEGARA EN UN SOLO RENGLON
  "But it didn't sing.",
@@ -20,5 +20,5 @@ formatter = "%r %r %r %r"                   #DECLARAS EL FORMATO QUE TENDRAS DE 
 #  print """
 #      Hola esto era hace una vez una ni;a
 #      muy linda que se portaba bien, vivia en un castillo
-#      ble bla bla bla,bla 
+#      ble bla bla bla,bla
 #   """

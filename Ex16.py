@@ -35,3 +35,6 @@ target.write("\n")
 
 print "And finally, we colse it. "
 target.close()                                          #SE GUARDA Y SE CIERRA EL ARCHIVO.
+
+
+#EN CONSOLA SE ESCRIBE $ python Ex16.py test.txt

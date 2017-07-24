@@ -8,7 +8,6 @@ print "The script is called:", uno        #EL TERMINO [ argv ] SIGNIFICA "ARGUME
 print "The first variable is:", script
 print "The second variable is:", tres
 print "The third variable is:", dos
-#print "Se puede tener mas values?:", th  #FUE PARA SABER SI PUEDEN PONER MAS VALUES EN EL argv 
 
 #SOLO SE PUEDE IMPRIMER EN LA CONSOLA/CMD
 #NO IMPORTA LOS NOMRBRES QUE SE LE PONGAN AL [ = argv ] SIEMPRE DARA COMO PROMER VALUE EL NOMBRE DEL script

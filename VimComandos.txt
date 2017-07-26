@@ -1,0 +1,13 @@
+
+e ---> Llevar el cursor al inicoo de la palbra
+E ---> Al final de una palabra delimitada por espacios
+b ---> Al inicio de una palrba
+B ---> Al inicio de una palabra delimita por espacios
+O ---> Al inicio de la linea
+^ ---> Primer carater de una linea que no sea un espacio
+$ ---> Al dinal de la linea
+H ---> A la primera linea de de l apntalla
+M ---> A la linea al medio de la pantalla
+L ---> A la ultima linea de la pantalla
+:n --->SAltar a la linea n.
+
